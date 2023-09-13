@@ -6,7 +6,7 @@
 * {
     margin: 0;
     padding: 0;
-    background-color: black;
+    /* background-color: black; */
     font-family: "General Sans";
     box-sizing: border-box;
 }
@@ -230,7 +230,7 @@ body {
 #about img {
     width: 200px;
     border-radius: 40%;
-    z-index: 8888;
+    z-index: 10;
     /* border: 2px solid rgb(17, 17, 17); */
 }
 
